@@ -5,6 +5,9 @@
   "author": "ema <emanuelcaceres02@hotmail.com.ar>",
   "license": "MIT",
   "private": false,
+  "scripts":{
+    "dev": "nodemon index.js"
+  },
   "devDependencies": {
     "nodemon": "^3.1.14"
   }
