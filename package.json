@@ -1,0 +1,11 @@
+{
+  "name": "emprende-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ema <emanuelcaceres02@hotmail.com.ar>",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
