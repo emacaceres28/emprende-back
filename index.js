@@ -3,10 +3,10 @@ const http = require("http")//toda la libreria http esta almancenada en un objet
 let valor = 28;
 
 const name = require('./another') //con "./" requerimos archivos de la misma carpeta para utilizar su contenido
-console.log({name});
+console.log({name}); 
 function requestController(){
     //logica de nuestra funcion
-     console.log("recibimos una nueva request");
+     console.log("recibimos una nueva request : D");
 
 }
 //configurar nuestro servidor 
