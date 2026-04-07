@@ -5,11 +5,12 @@
   "author": "ema <emanuelcaceres02@hotmail.com.ar>",
   "license": "MIT",
   "private": false,
-  "scripts":{
+  "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js"
   },
   "devDependencies": {
+    "dotenv": "^17.4.1",
     "nodemon": "^3.1.14"
   }
 }
